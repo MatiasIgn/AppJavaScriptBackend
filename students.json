@@ -1,0 +1,52 @@
+[
+    {
+        "id": 2,
+        "nombre": "Valentina",
+        "apellido1": "Hernández",
+        "apellido2": "García",
+        "run": "19.874.623-5",
+        "promedio": 62,
+        "peso": 72,
+        "estatura": 1.75
+    },
+    {
+        "id": 3,
+        "nombre": "Lucas",
+        "apellido1": "Pérez",
+        "apellido2": "Romero",
+        "run": "17.831.492-3",
+        "promedio": 54,
+        "peso": 61,
+        "estatura": 1.65
+    },
+    {
+        "id": 4,
+        "nombre": "Benjamín",
+        "apellido1": "Flores",
+        "apellido2": "Herrera",
+        "run": "14.926.510-7",
+        "promedio": 45,
+        "peso": 67,
+        "estatura": 1.69
+    },
+    {
+        "id": 5,
+        "nombre": "Sebastián",
+        "apellido1": "Silva",
+        "apellido2": "Torres",
+        "run": "18.217.406-8",
+        "promedio": 40,
+        "peso": 75,
+        "estatura": 1.85
+    },
+    {
+        "id": 6,
+        "nombre": "Pamela",
+        "apellido1": "Ortíz",
+        "apellido2": "Muñoz",
+        "run": "18.673.756-k",
+        "promedio": 67,
+        "peso": 64,
+        "estatura": 1.76
+    }
+]
